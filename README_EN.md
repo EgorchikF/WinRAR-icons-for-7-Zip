@@ -1,4 +1,4 @@
-Russian version of README is here (Click)
+[Russian version of README is here (Click)](https://github.com/EgorchikF/WinRAR-icons-for-7-Zip/blob/main/README.md)
 
 This repository was created based on my pure enthusiasm.
 
