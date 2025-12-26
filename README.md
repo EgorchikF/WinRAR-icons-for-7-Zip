@@ -1,4 +1,4 @@
-The English version of the README is here (click)
+[The English version of the README is here (click)](https://github.com/EgorchikF/WinRAR-icons-for-7-Zip/blob/main/README_EN.md)
 
 Этот репозиторий был создан на основе моего чистого энтузиазма. 
 
