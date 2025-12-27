@@ -32,7 +32,8 @@ I've made numerous variations for all occasions. Choose what you like! Everythin
 | **`Main - Default Gray Color +formats`** | Standard gray WinRAR icons, **with format labels** (ZIP, RAR, 7z, etc.). You can immediately see the archive format. |
 | **`Main - Default Gray without formats`** | The same gray icons, but **without labels**. All archives look uniform, just like in WinRAR. |
 | **`Main - SFX Style Color +formats`** | **Non-standard icons**. Uses the colored icon from the WinRAR SFX archive. **Format labels are added**. You can immediately see the archive format. |
-| **`Main - SFX Style Gray +formats`** | **Non-standard icons**. Uses the icon from the WinRAR SFX archive, recolored to gray. **Format labels are added**. You can immediately see the archive format. |
+| **`Main - SFX Style Color without`** | **Non-standard icons**. Uses the colored icon from the WinRAR SFX archive. **Format labels are added**. All archives look uniform. |
+| **`Main - SFX Style Gray +formats`** | **Non-standard icons**. Uses the icon from the WinRAR SFX archive, recolored to gray. **No labels**. You can immediately see the archive format. |
 | **`Main - SFX Style Gray without formats`** | **Non-standard icons**. Uses the same icon from the WinRAR SFX archive, recolored to gray. **No labels**. All archives look uniform. |
 
 ![Main - Default Color +formats](https://github.com/EgorchikF/WinRAR-icons-for-7-Zip/blob/main/Repository%20design/2-en.png)
