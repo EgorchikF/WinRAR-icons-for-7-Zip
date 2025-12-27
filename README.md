@@ -1,101 +1,98 @@
-[The English version of the README is here (click)](https://github.com/EgorchikF/WinRAR-icons-for-7-Zip/blob/main/README_EN.md)
+# 🗜️ WinRAR Icons Pack for 7-Zip
 
-Этот репозиторий был создан на основе моего чистого энтузиазма. 
+**A WinRAR-style icon pack for the 7-Zip archiver.** Replaces the standard 7-Zip icons with elegant and familiar WinRAR icons to make working with archives visually more pleasant and intuitive.
 
-Мне не нравятся стандартные старомодные иконки в архиваторе 7-Zip. 
-Fluent иконки от Mr4Mike4 мне показались лучше, но всё равно "что-то не то" :)
+[🌍 Русская версия (Russian version)](https://github.com/EgorchikF/WinRAR-icons-for-7-Zip/blob/main/README_ru.md)
 
-Мне всегда нравились иконки WinRAR, но сам архиватор мне не нравится. 
-Он платный, работает медленнее своего бесплатного аналога. 
-Поэтому я переделал иконки WinRAR для 7-Zip. 
+---
 
-Я сделал множество вариантов. Выбирайте, что по душе. 
-Всё разделено на две логические части: иконки для обычных архивов и отдельные иконки для SFX.
+## ❓ Why This Project?
 
-Основные наборы иконок:
-1. Main - Default Color +formats
-Стандартные цветные иконки WinRAR, но с подписями формата. 
-Сразу видно, какого формата архив.
+This repository was created out of pure enthusiasm.
 
-2. Main - Default Color without formats
-Стандартные цветные иконки WinRAR как есть. Чистый стиль без изменений.
-Все архивы выглядят единообразно, как в WinRAR.
+I didn't like the standard, old-fashioned icons in the **7-Zip** archiver. The **Fluent** style icons by Mr4Mike4 seemed better, but it still felt like "something's not quite right" :)
 
-3. Main - Default Gray Color +formats
-Стандартные серые иконки WinRAR, но с подписями форматов (ZIP, RAR, 7z и т.д.). 
-Сразу видно, какого формата архив.
+I've always liked **WinRAR** icons for their recognizability and style, but I wasn't satisfied with the archiver itself—it's paid and works slower than its free counterpart. So I decided to adapt the WinRAR icons for 7-Zip.
 
-4. Main - Default Color without formats
-Те же серые иконки, но без подписей. Все архивы выглядят единообразно, как в WinRAR.
+---
 
-5. Main - SFX Style Color +formats
-Не стандартные иконки. Взята цветная иконка от SFX-Архива из WinRAR.
-Добавлены подписи форматов. Сразу видно, какого формата архив.
+## 🎨 What's Inside?
 
-6. Main - SFX Style Gray without formats
-Не стандартные иконки. Взята та же иконка от SFX-Архива из WinRAR.
-Без подписей. Все архивы выглядят единообразно, как в WinRAR.
+I've made numerous variations for all occasions. Choose what you like! Everything is divided into two logical parts:
 
-7. Main - SFX Style Gray +formats
-Не стандартные иконки. Взята икона от SFX-архива из WinRAR, перекрашенная в серый цвет.
-Добавлены подписи форматов. Сразу видно, какого формата архив.
+1.  **Main icon sets** for regular archives (ZIP, RAR, 7z, etc.).
+2.  **Separate icons for SFX archives** (self-extracting archives).
 
-8. Main - SFX Style Gray without formats
-Не стандартные иконки. Взята та же иконка от SFX-Архива из WinRAR и перекрашена в серый цвет.
-Без подписей. Все архивы выглядят единообразно, как в WinRAR.
+### 📦 Main Icon Sets (for regular archives)
 
-Отдельные иконки для SFX-Архивов
-Поскольку иконка SFX-архива в 7-Zip задаётся отдельно, я подготовил несколько вариантов — чтобы вы могли либо сделать всё в одном стиле, либо намеренно выделить SFX-файлы.
+| Set | Description |
+| :--- | :--- |
+| **`Main - Default Color +formats`** | Standard colored WinRAR icons, **with format labels**. You can immediately see the archive format. |
+| **`Main - Default Color without formats`** | Standard colored WinRAR icons **as-is**. Pure style without changes. All archives look uniform, just like in WinRAR. |
+| **`Main - Default Gray Color +formats`** | Standard gray WinRAR icons, **with format labels** (ZIP, RAR, 7z, etc.). You can immediately see the archive format. |
+| **`Main - Default Gray without formats`** | The same gray icons, but **without labels**. All archives look uniform, just like in WinRAR. |
+| **`Main - SFX Style Color +formats`** | **Non-standard icons**. Uses the colored icon from the WinRAR SFX archive. **Format labels are added**. You can immediately see the archive format. |
+| **`Main - SFX Style Gray +formats`** | **Non-standard icons**. Uses the icon from the WinRAR SFX archive, recolored to gray. **Format labels are added**. You can immediately see the archive format. |
+| **`Main - SFX Style Gray without formats`** | **Non-standard icons**. Uses the same icon from the WinRAR SFX archive, recolored to gray. **No labels**. All archives look uniform. |
 
-1. SFX Icon - Default Gray +format
-Стандартная серая иконка из набора WinRAR от обычных форматов архивов с подписью формата.
+![Main - Default Color +formats](https://github.com/EgorchikF/WinRAR-icons-for-7-Zip/blob/main/Repository%20design/2-en.png)
+![Main - Default Color +formats](https://github.com/EgorchikF/WinRAR-icons-for-7-Zip/blob/main/Repository%20design/1-en.png)
+![Main - Default Color +formats](https://github.com/EgorchikF/WinRAR-icons-for-7-Zip/blob/main/Repository%20design/3-en.png)
+![Main - Default Color +formats](https://github.com/EgorchikF/WinRAR-icons-for-7-Zip/blob/main/Repository%20design/4-en.png)
+![Main - Default Color +formats](https://github.com/EgorchikF/WinRAR-icons-for-7-Zip/blob/main/Repository%20design/5-en.png)
 
-2. SFX Icon - Default Gray without format
-Та же стандартная серая иконка без изменений. 
-Без подписи формата.
+### ⚙️ Separate Icons for SFX Archives
 
-3. SFX Icon - Default Color +format
-Стандартная цветная иконка из набора WinRAR от обычных форматов архивов.
-Добавлена подпись формата.
+Since the SFX archive icon in 7-Zip is set separately, I've prepared several options. You can:
+*   Make everything in a **unified style** with regular archives.
+*   **Intentionally highlight** SFX files with a different design.
 
-4. SFX Icon - Default Color without format
-Та же стандартная цветная иконка из набора WinRAR от обычных форматов архивов. 
-Без подписи формата.
+| Set | Description |
+| :--- | :--- |
+| **`SFX Icon - Default Gray +format`** | Standard gray icon from the WinRAR set for regular archive formats **with a format label**. |
+| **`SFX Icon - Default Gray without format`** | The same standard gray icon **unchanged**. No format label. |
+| **`SFX Icon - Default Color +format`** | Standard colored icon from the WinRAR set for regular archive formats. **A format label is added**. |
+| **`SFX Icon - Default Color without format`** | The same standard colored icon from the WinRAR set for regular archive formats. **No format label**. |
+| **`SFX Icon - Original Gray +format`** | **Non-standard icon**. Uses the icon from the WinRAR SFX archive, recolored to gray. **A format label is added**. |
+| **`SFX Icon - Original Gray without format`** | **Non-standard icon**. Uses the same icon from the WinRAR SFX archive, recolored to gray. **No format label**. |
+| **`SFX Icon - Original Color +format`** | Standard colored icon from the WinRAR set for SFX archives. **A format label is added**. |
+| **`SFX Icon - Original Color without format`** | Standard colored icon from the WinRAR set for SFX archives. **No format label**. |
 
-5. SFX Icon - Original Gray +format
-Не стандартная иконка. Взята иконка от SFX-Архива из WinRAR и перекрашена в серый цвет.
-Добавлена подпись формата.
+![Main - Default Color +formats](https://github.com/EgorchikF/WinRAR-icons-for-7-Zip/blob/main/Repository%20design/6-en.png)
 
-6. SFX Icon - Original Gray without format
-Не стандартная иконка. Взята та же иконка от SFX-Архива из WinRAR и перекрашена в серый цвет.
-Без подписи формата.
+---
 
-7. SFX Icon - Original Color +format
-Стандартная цветная иконка из набора WinRAR от SFX-Архива.
-Добавлена подпись формата.
+## 📥 Installation
 
-8. SFX Icon - Original Color without format
-Стандартная цветная иконка из набора WinRAR от SFX-Архива. 
-Без подписи формата.
+Step-by-step guide to apply the new icons:
 
-Как установить иконки:
-1. Скачайте понравившийся набор основных иконок и (при желании) отдельную иконку для SFX-Архива.
-2. Скопируйте соответствующий .dll-файл (x86 или x64 — в зависимости от вашей версии 7-Zip) 
-в папку установки 7-Zip (обычно C:\Program Files\7-Zip, либо C:\Program Files (x86)\7-Zip - для x86 версии).
-3. Подтвердите замену файла.
-4. Откройте 7-Zip → Настройки → Система:
-    Снимите галочки с ассоциаций (например, «.zip», «.rar» и т.д.).
-	Поставьте их обратно.
-5. Нажмите Применить.
-6. Готово! Теперь ваши архивы выглядят так, как вы хотите.
+1.  **Download** your preferred main icon set and (optionally) a separate SFX icon from the [Releases](../../releases) section.
+2.  **Copy** the corresponding files to the 7-Zip installation folder:
+    *   For **64-bit** systems: `C:\Program Files\7-Zip\`
+    *   For **32-bit** (x86) systems: `C:\Program Files (x86)\7-Zip\`
+    *   💡 **Important:** Choose the file with the correct architecture (`x64.dll` or `x86.dll`).
+3.  **Confirm** file replacement if the system requests permission.
+4.  **Open 7-Zip → Settings → System**:
+    *   Uncheck any file association (e.g., `.zip`, `.rar`, etc.).
+    *   Check it again.
+    *   Click **Apply**.
+5.  **Done!** Now your archives look the way you want.
 
-Хочу ответь на вполне логичный вопрос:
-"Будет ли тулбар от WinRAR ?"
-Отвечаю: На данный момент не планирую по нескольким причинам:
-1. У WinRAR нет некоторых иконок для пунктов тулбара, которые есть в 7-Zip.
-2. Конкретно иконки тулбара WinRAR мне не нравятся. В данном случае лично я предпочту использовать 
-Fluent тулбар от Mr4Mike4, либо же другие тулбары в стиле Windows 10/11.
+---
 
-Надеюсь я упростил кому-то задачу и помог сделать Архиватор 7-Zip таким, каким вы хотите его видеть.
+## ❓ Answering a Common Question
 
-Всем добра и позитива !
+### **"Will there be a WinRAR-style toolbar?"**
+
+**Answer:** Not at the moment, and here's why:
+
+1.  WinRAR **lacks** some toolbar item icons that 7-Zip has.
+2.  Personally, **I don't like** the WinRAR toolbar icons themselves. In this case, I would recommend using the excellent **Fluent toolbar by Mr4Mike4** or other sets in the Windows 10/11 style.
+
+---
+
+## 💝 Conclusion
+
+I hope this project will make your task easier and help make the **7-Zip** archiver look exactly the way you want it to.
+
+Peace and kindness to all! ✨
